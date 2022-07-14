@@ -1,4 +1,10 @@
-### Hi there 👋
+### :peach: Hi there!
+---
+![header](https://capsule-render.vercel.app/api?type=waving&color=F8B9AD&fontColor=F6EFEF&height=300&section=header&text=Jeongeun%20Lee&fontSize=90)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebookleader)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebookleader)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ebookleader/ebookleader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
